@@ -1,4 +1,5 @@
 Simple pong game using pygame.
+
 Play with 2 players on same keyboard.
 
 To play:
